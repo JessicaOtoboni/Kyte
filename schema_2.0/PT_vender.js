@@ -92,7 +92,7 @@
           {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://www.kyte.com.br/como-vender-mais", "name": "Venda-Mais" }
+          "item": { "@id": "https://www.kyte.com.br/como-vender-mais", "name": "Venda Mais" }
           }
         ]
       },
