@@ -6,7 +6,7 @@
     {
       "@type": "Organization",
       "@id": "https://www.appkyte.com/#organization",
-      "name": "App Kyte",
+      "name": "Kyte",
       "url": "https://www.appkyte.com/",
       "logo": {
         "@type": "ImageObject",
