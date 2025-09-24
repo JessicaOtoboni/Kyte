@@ -21,7 +21,7 @@
         "https://www.tiktok.com/@kyte.app",
         "https://www.youtube.com/@kyteespanol",
         "https://play.google.com/store/apps/details?id=com.kyte&hl=es",
-        "https://apps.apple.com/es/app/kyte-pos-inventario-y-tienda/id1345983058?platform=iphone"
+        "https://apps.apple.com/mx/app/kyte-pos-inventario-y-tienda/id1345983058?platform=iphone"
       ]
     },
 
