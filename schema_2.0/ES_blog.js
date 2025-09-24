@@ -79,7 +79,7 @@
       "description": "{{wf {&quot;path&quot;:&quot;intro&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}",
       "inLanguage": "es",
       "image": { "@id": "{{wf {&quot;path&quot;:&quot;main-image&quot;,&quot;type&quot;:&quot;ImageRef&quot;\} }}/#primaryimage" },
-      "author": { "@id": "https://www.appkyte.com/autor/{{wf {&quot;path&quot;:&quot;author:slug&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}/#person" },
+      "author": { "@id": "https://www.appkyte.com/quien-escribe/{{wf {&quot;path&quot;:&quot;author:slug&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}/#person" },
       "publisher": { "@id": "https://www.appkyte.com/#organization" },
       "mainEntityOfPage": { "@id": "https://www.appkyte.com/post/{{wf {&quot;path&quot;:&quot;slug&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}/#webpage" },
       "isPartOf": { "@id": "https://www.appkyte.com/post/{{wf {&quot;path&quot;:&quot;slug&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}/#webpage" },
