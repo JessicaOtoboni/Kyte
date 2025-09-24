@@ -49,7 +49,7 @@
           "https://www.tiktok.com/@kyte.app",
           "https://www.youtube.com/@kyteespanol",
           "https://play.google.com/store/apps/details?id=com.kyte&hl=en",
-          "https://apps.apple.com/us/app/kyte-pos-inventory-and-store/id1345983058?platform=iphone
+          "https://apps.apple.com/us/app/kyte-pos-inventory-and-store/id1345983058?platform=iphone"
         ]
       },
 
