@@ -17,13 +17,15 @@
 
 .kai-cta-text {
   flex: 1 1 50%;
+  text-align: left; /* ✅ garante texto à esquerda em todas as telas */
 }
 
 .kai-cta-text h2 {
   margin: 0 0 12px;
   font-size: 1.6rem;
   font-weight: 700;
-  color: #111827;
+  color: #363F4D;
+  text-align: left; /* redundante, mas reforça o alinhamento */
 }
 
 .kai-cta-text p {
@@ -31,6 +33,7 @@
   font-size: 1rem;
   color: #374151;
   line-height: 1.5;
+  text-align: left; /* mantém coerência */
 }
 
 .btn-whatsapp {
@@ -45,7 +48,7 @@
 }
 
 .btn-whatsapp:hover {
-  background: #16a34a;
+  background: #2FAE94;
   transform: translateY(-2px);
 }
 
@@ -66,7 +69,13 @@
 @media (max-width: 768px) {
   .kai-cta-content {
     flex-direction: column;
-    text-align: center;
+    align-items: center;
+    text-align: center; /* centraliza o container, mas o texto fica à esquerda */
+  }
+
+  .kai-cta-text {
+    text-align: left; /*  força o texto à esquerda mesmo no mobile */
+    width: 100%;
   }
 
   .kai-cta-image img {
