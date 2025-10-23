@@ -145,9 +145,9 @@ const translations = {
   pt: 'Como recebo comissão?'
 },
 'faq.a.5': {
-  en: 'Via <b>PayPal</b>, according to the program’s <b><a href="https://www.kyteapp.com/terms-of-use#cap_12" rel="external">rules and timelines</a></b>.<br>Track your referrals in the <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a></b>.',
-  es: 'A través de <b>PayPal</b>, según las <b><a href="https://www.appkyte.com/terminos-de-uso#cap_25" rel="external">reglas y plazos del programa</a></b>.<br>Revisa tus referidos en el <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a></b>.',
-  pt: 'Através do <b>PayPal</b>, conforme <b><a href="https://www.kyte.com.br/termos-de-uso#cap_13" rel="external">regras e prazos do programa</a></b>.<br>Acompanhe suas indicações no <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a></b>.'
+  en: 'Via <b>PayPal</b>, according to the program’s <a href="https://www.kyteapp.com/terms-of-use#cap_12" rel="external">rules and timelines</a>. Track your referrals in the <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a>.',
+  es: 'A través de <b>PayPal</b>, según las <a href="https://www.appkyte.com/terminos-de-uso#cap_25" rel="external">reglas y plazos del programa</a>. Revisa tus referidos en el <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a>.',
+  pt: 'Através do <b>PayPal</b>, conforme <a href="https://www.kyte.com.br/termos-de-uso#cap_13" rel="external">regras e prazos do programa</a>. Acompanhe suas indicações no <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a>.'
 },
 'faq.q.6': {
   en: 'When do I start receiving?',
