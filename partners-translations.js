@@ -60,9 +60,9 @@ const translations = {
     pt: 'Passo 1: Compartilhe seu link exclusivo'
   },
   'who.h3.a.description': {
-    en: 'Go to the <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a>, sign up, and get your link.<br>Share it via <b>WhatsApp</b>, social media, or email.',
-    es: 'Accede al <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a>, regístrate y obtén tu enlace.<br>Compártelo por <b>WhatsApp</b>, redes sociales o correo.',
-    pt: 'Acesse o <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a>, faça seu cadastro e tenha acesso ao seu link.<br>Compartilhe por <b>WhatsApp</b>, redes sociais ou e-mail.'
+    en: 'Go to the <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a></b>, sign up, and get your link.<br>Share it via <b>WhatsApp</b>, social media, or email.',
+    es: 'Accede al <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a></b>, regístrate y obtén tu enlace.<br>Compártelo por <b>WhatsApp</b>, redes sociales o correo.',
+    pt: 'Acesse o <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a></b>, faça seu cadastro e tenha acesso ao seu link.<br>Compartilhe por <b>WhatsApp</b>, redes sociais ou e-mail.'
   },
   'who.h3.b': {
     en: 'Step 2: New subscribers get a discount',
