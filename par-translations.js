@@ -5,9 +5,9 @@ const translations = {
     pt: 'Ganhe indicando o Kyte'
   },
   'hero.description': {
-    en: '<b>Kyte Partner Program:</b> Earn <b>15% for every subscription</b> and offer <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> plans.<br>⭐ <b>Grow together:</b> the more you share and help, the more you earn! ⭐',
-    es: '<b>Programa de Socios Kyte:</b> Recibe <b>15% por cada suscripción</b> y ofrece <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b>.<br>⭐ <b>Crece con nosotros:</b> entre más compartes y ayudas, ¡más ganas! ⭐',
-    pt: '<b>Programa de Parceiros Kyte:</b> Receba <b>15% por cada assinatura</b> e ofereça<b> 15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b>.<br>⭐ <b>Cresça junto:</b> quanto mais você compartilha e ajuda, mais você ganha! ⭐'
+    en: '<b>Kyte Partner Program:</b> Earn <b>15% for every subscription</b> and offer <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> plans. ⭐ <b>Grow together:</b> the more you share and help, the more you earn! ⭐',
+    es: '<b>Programa de Socios Kyte:</b> Recibe <b>15% por cada suscripción</b> y ofrece <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b>. ⭐ <b>Crece con nosotros:</b> entre más compartes y ayudas, ¡más ganas! ⭐',
+    pt: '<b>Programa de Parceiros Kyte:</b> Receba <b>15% por cada assinatura</b> e ofereça<b> 15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b>. ⭐ <b>Cresça junto:</b> quanto mais você compartilha e ajuda, mais você ganha! ⭐'
   },
   'partners-1B': {
     en: 'Learn more',
@@ -60,7 +60,7 @@ const translations = {
     pt: 'Passo 1: Compartilhe seu link exclusivo'
   },
   'who.h3.a.description': {
-    en: 'Go to the <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a></b>, sign up, and get your link.<br>Share it via <b>WhatsApp</b>, social media, or email.',
+    en: 'Go to the <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a></b>, sign up, and get your link. Share it via <b>WhatsApp</b>, social media, or email.',
     es: 'Accede al <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a></b>, regístrate y obtén tu enlace.<br>Compártelo por <b>WhatsApp</b>, redes sociales o correo.',
     pt: 'Acesse o <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a></b>, faça seu cadastro e tenha acesso ao seu link.<br>Compartilhe por <b>WhatsApp</b>, redes sociais ou e-mail.'
   },
@@ -71,8 +71,8 @@ const translations = {
   },
   'who.h3.b.description': {
     en: 'When someone clicks your link, they go to sign up and your code stays <b>valid for 90 days</b>. New subscriptions through your personal link give referrals <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> for up to <b>12 months</b>.',
-    es: 'Al hacer clic en tu enlace, la persona irá a registrarse y tu código quedará <b>válido por 90 días</b>.<br>Las nuevas suscripciones con tu enlace personalizado garantizan a tus referidos <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b> por hasta <b>12 meses</b>.',
-    pt: 'Clicando no link, seu contato vai ser direcionado para se cadastrar e seu código ficará <b>válido por 90 dias</b>.<br>Novas assinaturas via seu link personalizado garantem aos indicados <b>15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b> por até <b>12 meses</b>.'
+    es: 'Al hacer clic en tu enlace, la persona irá a registrarse y tu código quedará <b>válido por 90 días</b>. Las nuevas suscripciones con tu enlace personalizado garantizan a tus referidos <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b> por hasta <b>12 meses</b>.',
+    pt: 'Clicando no link, seu contato vai ser direcionado para se cadastrar e seu código ficará <b>válido por 90 dias</b>. Novas assinaturas via seu link personalizado garantem aos indicados <b>15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b> por até <b>12 meses</b>.'
   },
   'who.h3.c': {
     en: 'Step 3: You receive the payment in your PayPal account',
@@ -115,9 +115,9 @@ const translations = {
   pt: 'Como funciona?'
 },
 'faq.a.2': {
-  en: '<b>1.</b> Sign up in the <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a>, generate your <b>unique link</b>, and share it with as many people as you want.<br><b>2. Anyone with your <b>personal link</b> can register on <b>Kyte</b> within <b>90 days</b> and, when creating the account, <b>gets a 7-day trial</b> of the <b>GROW</b> plan.<br><b>3.</b> If your referral subscribes to a <b>Kyte</b> plan and it is the <b>first subscription</b> or they have been on the <b>FREE plan</b> for <b>more than 3 months</b>, the commission is recorded on <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">your dashboard</a>.',
-  es: '<b>1.</b> Regístrate en el <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a>, genera tu <b>enlace único</b> y compártelo con tantas personas como quieras.<br><b>2. Quien tenga tu <b>enlace personalizado</b> puede registrarse en <b>Kyte</b> con ese enlace en <b>hasta 90 días</b> y, al crear la cuenta, <b>recibe 7 días de prueba</b> del plan <b>GROW</b>.<br><b>3.</b> Si tu referido se suscribe a un plan de <b>Kyte</b> y es su <b>primera suscripción</b> o estaba en el <b>plan FREE</b> por <b>más de 3 meses</b>, la comisión se registra en <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">tu panel</a>.',
-  pt: '<b>1.</b> Cadastre-se no <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a>, gere seu <b>link exclusivo</b> e compartilhe com quantas pessoas quiser.<br><b>2. Quem tiver o seu <b>link personalizado</b> pode se cadastrar no <b>Kyte</b> com ele em <b>até 90 dias</b> e, ao criar a conta, <b>ganha 7 dias de teste</b> do plano <b>GROW</b>.<br><b>3.</b> Se quem você indicou assinar um plano <b>Kyte</b> e for a <b>primeira assinatura</b> ou estiver no <b>plano FREE</b> há <b>mais de 3 meses</b>, a comissão é registrada no <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">seu painel</a>.'
+  en: '<b>1.</b> Sign up in the <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a>, generate your <b>unique link, and share it with as many people as you want.<br><b>2. Anyone with your <b>personal link</b> can register on <b>Kyte</b> within <b>90 days</b> and, when creating the account, <b>gets a 7-day trial</b> of the <b>GROW</b> plan.<br><b>3.</b> If your referral subscribes to a <b>Kyte</b> plan and it is the <b>first subscription</b> or they have been on the <b>FREE plan</b> for <b>more than 3 months</b>, the commission is recorded on <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">your dashboard</a>.',
+  es: '<b>1.</b> Regístrate en el <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a>, genera tu <b>enlace único y compártelo con tantas personas como quieras.<br><b>2. Quien tenga tu <b>enlace personalizado</b> puede registrarse en <b>Kyte</b> con ese enlace en <b>hasta 90 días</b> y, al crear la cuenta, <b>recibe 7 días de prueba</b> del plan <b>GROW</b>.<br><b>3.</b> Si tu referido se suscribe a un plan de <b>Kyte</b> y es su <b>primera suscripción</b> o estaba en el <b>plan FREE</b> por <b>más de 3 meses</b>, la comisión se registra en <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">tu panel</a>.',
+  pt: '<b>1.</b> Cadastre-se no <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a>, gere seu <b>link exclusivo e compartilhe com quantas pessoas quiser.<br><b>2. Quem tiver o seu <b>link personalizado</b> pode se cadastrar no <b>Kyte</b> com ele em <b>até 90 dias</b> e, ao criar a conta, <b>ganha 7 dias de teste</b> do plano <b>GROW</b>.<br><b>3.</b> Se quem você indicou assinar um plano <b>Kyte</b> e for a <b>primeira assinatura</b> ou estiver no <b>plano FREE</b> há <b>mais de 3 meses</b>, a comissão é registrada no <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">seu painel</a>.'
 },
 'faq.q.3': {
   en: 'Which plans give my referral a 15% discount?',
