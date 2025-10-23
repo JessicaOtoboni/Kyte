@@ -285,4 +285,3 @@ updateElementContent('faq.q.8', userLocale);
 updateElementContent('faq.a.8', userLocale);
 updateElementContent('faq.cta.title', userLocale);
 updateElementContent('faq.cta.description', userLocale);
-updateElementContent('where.login.title', userLocale);
