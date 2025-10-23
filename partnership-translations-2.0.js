@@ -5,7 +5,7 @@ const translations = {
     pt: 'Ganhe indicando o Kyte'
   },
   'hero.description': {
-    en: "<b>Kyte Partner Program:</b> Earn <b>15% for every subscription</b> and offer <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> plans.<br>⭐ <b>Grow together:</b> the more you share and help, the more you earn! ⭐",
+    en: '<b>Kyte Partner Program:</b> Earn <b>15% for every subscription</b> and offer <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> plans.<br>⭐ <b>Grow together:</b> the more you share and help, the more you earn! ⭐',
     es: '<b>Programa de Socios Kyte:</b> Recibe <b>15% por cada suscripción</b> y ofrece <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b>.<br>⭐ <b>Crece con nosotros:</b> entre más compartes y ayudas, ¡más ganas! ⭐',
     pt: '<b>Programa de Parceiros Kyte:</b> Receba <b>15% por cada assinatura</b> e ofereça<b> 15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b>.<br>⭐ <b>Cresça junto:</b> quanto mais você compartilha e ajuda, mais você ganha! ⭐'
   },
