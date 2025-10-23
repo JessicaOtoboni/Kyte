@@ -1,5 +1,5 @@
 const translations = {
-  'hero.h1.1': {
+  'hero.h1': {
     en: 'Earn by referring Kyte',
     es: 'Gana recomendando Kyte',
     pt: 'Ganhe indicando o Kyte'
@@ -9,12 +9,12 @@ const translations = {
     es: '<b>Programa de Socios Kyte:</b> Recibe <b>15% por cada suscripción</b> y ofrece <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b>.<br>⭐ <b>Crece con nosotros:</b> entre más compartes y ayudas, ¡más ganas! ⭐',
     pt: '<b>Programa de Parceiros Kyte:</b> Receba <b>15% por cada assinatura</b> e ofereça<b> 15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b>.<br>⭐ <b>Cresça junto:</b> quanto mais você compartilha e ajuda, mais você ganha! ⭐'
   },
-  'hero.button.learn': {
+  'partners-1B': {
     en: 'Learn more',
     es: 'Más información',
     pt: 'Saiba mais'
   },
-  'hero.button.cta': {
+  'partners-1A': {
     en: 'Start now',
     es: 'Comenzar ahora',
     pt: 'Comece agora'
@@ -44,12 +44,12 @@ const translations = {
     es: '<b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b> por hasta <b>12 meses</b>.<br><b>Inicio rápido</b> y soporte para aprovechar al máximo <b>Kyte</b>.<br>Ahorro para <b>reinvertir en el negocio</b>.',
     pt: '<b>15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b> por até <b>12 meses</b>.<br><b>Começo rápido</b> e suporte para aproveitar o máximo do <b>Kyte</b>.<br>Economia para <b>reinvestir no negócio</b>'
   },
-  'how.button.learn': {
+  'partners-2B': {
     en: 'Learn more',
     es: 'Más información',
     pt: 'Saiba mais'
   },
-  'how.button.cta': {
+  'partners-2A': {
     en: 'Start now',
     es: 'Comenzar ahora',
     pt: 'Comece agora'
@@ -84,12 +84,12 @@ const translations = {
     es: 'Después de la confirmación de la suscripción hecha con tu enlace, ganas <b>15% de comisión</b> por hasta <b>12 meses</b> y podrás seguirlo en tu panel del <b>Portal de Socios</b>.',
     pt: 'Após a confirmação da assinatura realizada pelo seu link, você ganha <b>15% de comissão</b> por até <b>12 meses</b> e poderá acompanhar no seu painel, no <b>Portal de Parceiros</b>.'
   },
-  'who.button.learn': {
+  'partners-3B': {
     en: 'Learn more',
     es: 'Más información',
     pt: 'Saiba mais'
   },
-  'who.button.cta': {
+  'partners-3A': {
     en: 'Get started',
     es: 'Comenzar',
     pt: 'Começar'
@@ -189,79 +189,11 @@ const translations = {
   es: 'Ayuda a otros negocios y gana dinero con las suscripciones realizadas a través de tu enlace único.',
   pt: 'Ajude outros negócios e ganhe dinheiro com assinaturas feitas através do seu link exclusivo.'
 },
-'faq.cta.button': {
-  en: 'Get my referral link',
-  es: 'Quiero mi enlace de referencia',
-  pt: 'Quero meu link de indicação'
-},
 'faq.cta.link': {
   en: 'Get my referral link',
   es: 'Quiero mi enlace de referencia',
   pt: 'Quero meu link de indicação'
 },
-
-  // Sign-up form information
-  'pfy-input-first_name': {
-    en: 'My name is...',
-    es: 'Mi nombre es...',
-    pt: 'Meu nome é...'
-  },
-  'pfy-input-job_title': {
-    en: 'Job title',
-    es: 'Título profesional',
-    pt: 'Profissão'
-  },
-  'pfy-input-phone_number': {
-    en: 'Phone number',
-    es: 'Número de teléfono',
-    pt: 'Número de telefone'
-  },
-  'pfy-input-email': {
-    en: 'name@email.com',
-    es: 'nombre@email.com',
-    pt: 'nome@email.com'
-  },
-  'custom_var1': {
-    en: 'Do you have a Kyte account?',
-    es: '¿Tienes una cuenta en Kyte?',
-    pt: 'Você tem uma conta no Kyte?'
-  },
-  'kyte-relationship.option.0': {
-    en: 'Do you have a Kyte account?',
-    es: '¿Tienes una cuenta de Kyte?',
-    pt: 'Você tem uma conta Kyte?'
-  },
-  'kyte-relationship.option.1': {
-    en: 'Yes, and I use it all the time',
-    es: 'Sí, y lo uso todo el tiempo',
-    pt: 'Sim, e eu uso o tempo todo'
-  },
-  'kyte-relationship.option.2': {
-    en: 'Yes, but I don\'t use it',
-    es: 'Sí, pero no lo uso',
-    pt: 'Sim, mas eu não uso'
-  },
-  'kyte-relationship.option.3': {
-    en: 'No, I\'ve never used Kyte',
-    es: 'No, nunca he usado Kyte',
-    pt: 'Não, eu nunca usei o Kyte'
-  },
-  'pfy-input-opt_in-text': {
-    en: 'I agree to the Affiliate Influencers <a href="https://www.kyteapp.com/terms-of-use" rel="external">Terms of Service</a> and <a href="https://www.kyteapp.com/privacy-policy" rel="external">Privacy Policy</a>.',
-    es: 'Acepto los <a href="https://www.appkyte.com/terminos-de-uso" rel="external">Términos de Servicio</a> y la <a href="https://www.appkyte.com/politica-de-privacidad" rel="external">Política de Privacidad</a> de los Afiliados Influencers.',
-    pt: 'Concordo com os <a href="https://www.kyte.com.br/termos-de-uso" rel="external">Termos de Serviço</a> e a <a href="https://www.kyte.com.br/politica-de-privacidade" rel="external">Política de Privacidade</a> dos Influenciadores Afiliados.'
-  },
-  'pfy-input-submit': {
-    en: 'Become a partner',
-    es: 'Iniciar asociación',
-    pt: 'Iniciar parceria'
-  },
-  'where.login.title': {
-    en: 'Already have an account?',
-    es: '¿Ya tienes una cuenta?',
-    pt: 'Já tem uma conta?'
-  }
-};
 
 // Function to get the user's locale
 function getUserLocale() {
@@ -315,37 +247,26 @@ const userLocale = getUserLocale();
 
 // Get translated content for each element ID and user's locale
 
-updateElementContent('hero.h1.1', userLocale);
-updateElementContent('hero.h1.2', userLocale);
-updateElementContent('hero.h1.3', userLocale);
+updateElementContent('hero.h1', userLocale);
 updateElementContent('hero.description', userLocale);
-updateElementContent('hero.button.learn', userLocale);
-updateElementContent('hero.button.cta', userLocale);
-updateElementContent('how.subheading', userLocale);
+updateElementContent('partners-1B', userLocale);
+updateElementContent('partners-1A', userLocale);
 updateElementContent('how.h2', userLocale);
-updateElementContent('how.description', userLocale);
 updateElementContent('how.h3.a', userLocale);
 updateElementContent('how.h3.a.description', userLocale);
 updateElementContent('how.h3.b', userLocale);
 updateElementContent('how.h3.b.description', userLocale);
-updateElementContent('how.button.learn', userLocale);
-updateElementContent('how.button.cta', userLocale);
-updateElementContent('who.subheading', userLocale);
-updateElementContent('who.h2', userLocale);
-updateElementContent('who.description', userLocale);
+updateElementContent('partners-2B', userLocale);
+updateElementContent('partners-2A', userLocale);
 updateElementContent('who.h3.a', userLocale);
 updateElementContent('who.h3.a.description', userLocale);
 updateElementContent('who.h3.b', userLocale);
 updateElementContent('who.h3.b.description', userLocale);
 updateElementContent('who.h3.c', userLocale);
 updateElementContent('who.h3.c.description', userLocale);
-updateElementContent('who.button.learn', userLocale);
-updateElementContent('who.button.cta', userLocale);
-updateElementContent('where.h2', userLocale);
-updateElementContent('where.description', userLocale);
-updateElementContent('faq.subheading', userLocale);
+updateElementContent('partners-3B', userLocale);
+updateElementContent('partners-3A', userLocale);
 updateElementContent('faq.heading', userLocale);
-updateElementContent('faq.paragraph', userLocale);
 updateElementContent('faq.q.1', userLocale);
 updateElementContent('faq.a.1', userLocale);
 updateElementContent('faq.q.2', userLocale);
@@ -364,17 +285,4 @@ updateElementContent('faq.q.8', userLocale);
 updateElementContent('faq.a.8', userLocale);
 updateElementContent('faq.cta.title', userLocale);
 updateElementContent('faq.cta.description', userLocale);
-updateElementContent('faq.cta.button', userLocale);
 updateElementContent('where.login.title', userLocale);
-
-updateElementContent('pfy-input-first_name', userLocale);
-updateElementContent('pfy-input-job_title', userLocale);
-updateElementContent('pfy-input-phone_number', userLocale);
-updateElementContent('pfy-input-email', userLocale);
-updateElementContent('custom_var1', userLocale);
-updateElementContent('kyte-relationship.option.0', userLocale);
-updateElementContent('kyte-relationship.option.1', userLocale);
-updateElementContent('kyte-relationship.option.2', userLocale);
-updateElementContent('kyte-relationship.option.3', userLocale);
-updateElementContent('pfy-input-opt_in-text', userLocale);
-updateElementContent('pfy-input-submit', userLocale);
