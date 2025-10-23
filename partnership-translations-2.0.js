@@ -60,9 +60,9 @@ const translations = {
     pt: 'Passo 1: Compartilhe seu link exclusivo'
   },
   'who.h3.a.description': {
-    en: 'Go to the <b>Partner Portal</b>, sign up, and get your link.<br>Share it via <b>WhatsApp</b>, social media, or email.',
-    es: 'Accede al <b>Portal de Socios</b>, regístrate y obtén tu enlace.<br>Compártelo por <b>WhatsApp</b>, redes sociales o correo.',
-    pt: 'Acesse o <b>Portal de Parceiros</b>, faça seu cadastro e tenha acesso ao seu link.<br>Compartilhe por <b>WhatsApp</b>, redes sociais ou e-mail.'
+    en: 'Go to the <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a>, sign up, and get your link.<br>Share it via <b>WhatsApp</b>, social media, or email.',
+    es: 'Accede al <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a>, regístrate y obtén tu enlace.<br>Compártelo por <b>WhatsApp</b>, redes sociales o correo.',
+    pt: 'Acesse o <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a>, faça seu cadastro e tenha acesso ao seu link.<br>Compartilhe por <b>WhatsApp</b>, redes sociais ou e-mail.'
   },
   'who.h3.b': {
     en: 'Step 2: New subscribers get a discount',
@@ -105,9 +105,9 @@ const translations = {
   pt: 'Qualquer pessoa pode participar?'
 },
 'faq.a.1': {
-  en: 'Yes, anyone <b>18+ years old</b>, whether they use <b>Kyte</b> or not. 🤝<br>Just share your <b>unique link</b> with business owners and they <b>subscribe to a Kyte plan</b>.',
-  es: 'Sí, cualquier persona <b>mayor de 18 años</b> use o no <b>Kyte</b>. 🤝<br>Solo comparte tu <b>enlace único</b> con quien tenga un negocio y la persona <b>se suscriba a uno de los planes Kyte</b>.',
-  pt: 'Sim, qualquer pessoa <b>maior de 18 anos</b> que usa ou não o <b>Kyte</b>. 🤝<br>É só divulgar o seu <b>link exclusivo</b> para quem tem um negócio e a pessoa <b>assinar um dos planos Kyte</b>.'
+  en: 'Yes, anyone <b>18+ years old</b>, whether they use <b>Kyte</b> or not. 🤝<br>Just share your <b>unique link</b> with business owners and they subscribe to a <a href="https://www.kyteapp.com/pricing" rel="external">Kyte plan</a>.',
+  es: 'Sí, cualquier persona <b>mayor de 18 años</b> use o no <b>Kyte</b>. 🤝<br>Solo comparte tu <b>enlace único</b> con quien tenga un negocio y la persona <b>se suscriba a uno de los <a href="https://www.appkyte.com/precios" rel="external"> planes Kyte</a>.',
+  pt: 'Sim, qualquer pessoa <b>maior de 18 anos</b> que usa ou não o <b>Kyte</b>. 🤝<br>É só divulgar o seu <b>link exclusivo</b> para quem tem um negócio e a pessoa <a href="https://www.kyte.com.br/planos" rel="external">assinar um dos planos Kyte</a>.'
 },
 'faq.q.2': {
   en: 'How does it work?',
