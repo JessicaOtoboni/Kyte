@@ -30,9 +30,9 @@ const translations = {
     pt: 'Para você'
   },
   'how.h3.a.description': {
-    en: '<b>15%</b> from each <b>confirmed subscription</b>, for up to <b>12 months</b>.<br> Track referrals and commissions in the <b>Partner Portal</b>.<br><b>No limit</b> on referrals.',
-    es: '<b>15%</b> de cada <b>suscripción confirmada</b>, por hasta <b>12 meses</b>.<br> Seguimiento de referidos y comisiones en el <b>Portal de Socios</b>.<br><b>Sin límite</b> de referidos.',
-    pt: '<b>15%</b> de cada <b>assinatura confirmada</b>, por até <b>12 meses</b>.<br> Acompanhamento de indicações e comissões no <b>Portal de Parceiros</b>.<br><b>Sem limite</b> de indicações.'
+    en: '<b>15%</b> from each <b>confirmed subscription</b>, for up to <b>12 months</b>. Track referrals and commissions in the <b>Partner Portal</b>. <b>No limit</b> on referrals.',
+    es: '<b>15%</b> de cada <b>suscripción confirmada</b>, por hasta <b>12 meses</b>. Seguimiento de referidos y comisiones en el <b>Portal de Socios</b>. <b>Sin límite</b> de referidos.',
+    pt: '<b>15%</b> de cada <b>assinatura confirmada</b>, por até <b>12 meses</b>. Acompanhamento de indicações e comissões no <b>Portal de Parceiros</b>. <b>Sem limite</b> de indicações.'
   },
   'how.h3.b': {
     en: 'For those you refer',
@@ -70,7 +70,7 @@ const translations = {
     pt: 'Passo 2: Quem assina tem desconto'
   },
   'who.h3.b.description': {
-    en: 'When someone clicks your link, they go to sign up and your code stays <b>valid for 90 days</b>.<br>New subscriptions through your personal link give referrals <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> for up to <b>12 months</b>.',
+    en: 'When someone clicks your link, they go to sign up and your code stays <b>valid for 90 days</b>. New subscriptions through your personal link give referrals <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> for up to <b>12 months</b>.',
     es: 'Al hacer clic en tu enlace, la persona irá a registrarse y tu código quedará <b>válido por 90 días</b>.<br>Las nuevas suscripciones con tu enlace personalizado garantizan a tus referidos <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b> por hasta <b>12 meses</b>.',
     pt: 'Clicando no link, seu contato vai ser direcionado para se cadastrar e seu código ficará <b>válido por 90 dias</b>.<br>Novas assinaturas via seu link personalizado garantem aos indicados <b>15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b> por até <b>12 meses</b>.'
   },
