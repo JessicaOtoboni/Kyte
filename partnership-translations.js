@@ -105,9 +105,9 @@ const translations = {
   pt: 'Qualquer pessoa pode participar?'
 },
 'faq.a.1': {
-  en: 'Yes, anyone <b>18+ years old</b>, whether they use <b>Kyte</b> or not. 🤝 Just share your <b>unique link</b> with business owners and they subscribe to a <a href="https://www.kyteapp.com/pricing" rel="external">Kyte plan</a>.',
-  es: 'Sí, cualquier persona <b>mayor de 18 años</b> use o no <b>Kyte</b>. 🤝 Solo comparte tu <b>enlace único</b> con quien tenga un negocio y la persona <b>se suscriba a uno de los <a href="https://www.appkyte.com/precios" rel="external"> planes Kyte</a>.',
-  pt: 'Sim, qualquer pessoa <b>maior de 18 anos</b> que usa ou não o <b>Kyte</b>. 🤝 É só divulgar o seu <b>link exclusivo</b> para quem tem um negócio e a pessoa <a href="https://www.kyte.com.br/planos" rel="external">assinar um dos planos Kyte</a>.'
+  en: 'Yes, anyone <b>18+ years old</b>, whether they use <b>Kyte</b> or not. Just share your <b>unique link</b> with business owners and they subscribe to a <a href="https://www.kyteapp.com/pricing" rel="external">Kyte plan</a>.',
+  es: 'Sí, cualquier persona <b>mayor de 18 años</b> use o no <b>Kyte</b>. Solo comparte tu <b>enlace único</b> con quien tenga un negocio y la persona <b>se suscriba a uno de los <a href="https://www.appkyte.com/precios" rel="external"> planes Kyte</a>.',
+  pt: 'Sim, qualquer pessoa <b>maior de 18 anos</b> que usa ou não o <b>Kyte</b>. É só divulgar o seu <b>link exclusivo</b> para quem tem um negócio e a pessoa <a href="https://www.kyte.com.br/planos" rel="external">assinar um dos planos Kyte</a>.'
 },
 'faq.q.2': {
   en: 'How does it work?',
