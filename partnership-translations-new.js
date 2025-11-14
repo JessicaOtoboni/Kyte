@@ -5,9 +5,9 @@ const translations = {
     pt: 'Ganhe indicando o Kyte'
   },
   'hero.description': {
-    en: '<b>Kyte Partner Program:</b> Earn <b>15% for every subscription</b> and offer <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> plans. ⭐ <b>Grow together:</b> the more you share and help, the more you earn! ⭐',
-    es: '<b>Programa de Socios Kyte:</b> Recibe <b>15% por cada suscripción</b> y ofrece <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b>. ⭐ <b>Crece con nosotros:</b> entre más compartes y ayudas, ¡más ganas! ⭐',
-    pt: '<b>Programa de Parceiros Kyte:</b> Receba <b>15% por cada assinatura</b> e ofereça<b> 15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b>. ⭐ <b>Cresça junto:</b> quanto mais você compartilha e ajuda, mais você ganha! ⭐'
+    en: 'Earn <b>15% for every subscription</b> and offer <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> plans. Refer as much as you want!',
+    es: 'Recibe <b>15% de cada suscripción</b> y ofrece <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b>. ¡Refiere todo lo que quieras!',
+    pt: 'Receba <b>15% por cada assinatura</b> e ofereça<b> 15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b>. Indique o quanto quiser!'
   },
   'partners-1B': {
     en: 'Learn more',
@@ -21,7 +21,7 @@ const translations = {
   },
   'how.h2': {
     en: 'You earn 15% commission, your referral gets 15% off',
-    es: 'Tú ganas 15% de comisión, tu referido recibe 15% de descuento',
+    es: 'Ganas 15% de comisión, tu referido recibe 15% de descuento',
     pt: 'Você ganha 15% de comissão, seu indicado tem 15% de desconto'
   },
   'how.h3.a': {
@@ -30,19 +30,19 @@ const translations = {
     pt: 'Para você'
   },
   'how.h3.a.description': {
-    en: '<b>15%</b> from each <b>confirmed subscription</b>, for up to <b>12 months</b>. Track referrals and commissions in the <b>Partner Portal</b>. <b>No limit</b> on referrals.',
-    es: '<b>15%</b> de cada <b>suscripción confirmada</b>, por hasta <b>12 meses</b>. Seguimiento de referidos y comisiones en el <b>Portal de Socios</b>. <b>Sin límite</b> de referidos.',
-    pt: '<b>15%</b> de cada <b>assinatura confirmada</b>, por até <b>12 meses</b>. Acompanhamento de indicações e comissões no <b>Portal de Parceiros</b>. <b>Sem limite</b> de indicações.'
+    en: 'You receive <b>15%</b> from each <b>confirmed subscription</b> for up to <b>12 months</b>, with full tracking of referrals and commissions in the <b><a href="https://kyte.firstpromoter.com/home" rel="external">Partner Portal</a></b> — and the best part: <b>no referral limit.</b>',
+    es: 'Recibes <b>15%</b> de cada <b>suscripción confirmada</b>, por hasta <b>12 meses</b>, con todo el seguimiento de referidos y comisiones en el <b><a href="https://kyte.firstpromoter.com/home" rel="external">Portal de Socios</a></b> — y lo mejor: <b>sin límite de referidos</b>.',
+    pt: 'Você recebe <b>15%</b> de cada <b>assinatura confirmada</b>, por até <b>12 meses</b>, com todo o acompanhamento de indicações e comissões pelo <b><a href="https://kyte.firstpromoter.com/home" rel="external">Portal de Parceiros</a></b> — e o melhor: <b>sem limite de indicações</b>.' 
   },
   'how.h3.b': {
-    en: 'For those you refer',
-    es: 'Para quienes recomiendes',
+    en: 'For your referrals',
+    es: 'Para quienes refieres',
     pt: 'Para quem você indica'
   },
   'how.h3.b.description': {
-    en: '<b>15% off</b> on <b>GROW</b> and <b>PRIME</b> plans for up to <b>12 months</b>. <b>Quick start</b> and support to get the most from <b>Kyte</b>.<br>Savings to <b>reinvest in the business</b>.',
-    es: '<b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b> por hasta <b>12 meses</b>. <b>Inicio rápido</b> y soporte para aprovechar al máximo <b>Kyte</b>.<br>Ahorro para <b>reinvertir en el negocio</b>.',
-    pt: '<b>15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b> por até <b>12 meses</b>. <b>Começo rápido</b> e suporte para aproveitar o máximo do <b>Kyte</b>.<br>Economia para <b>reinvestir no negócio</b>'
+    en: 'Anyone who joins with your link gets <b>15% off GROW</b> and <b>PRIME</b> for up to <b>12 months</b>, has <b>support</b> to get the most out of <b>Kyte</b>, and saves to <b>reinvest in their business</b>.',
+    es: 'Quien entra con tu enlace obtiene <b>15% de descuento</b> en <b>GROW</b> y <b>PRIME</b> por hasta <b>12 meses</b>, cuenta con <b>soporte</b> para aprovechar al máximo <b>Kyte</b> y aún ahorra para <b>reinvertir en el negocio</b>.',
+    pt: 'Quem entra pelo seu link ganha <b>15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b> por até <b>12 meses</b>, conta com <b>suporte</b> para aproveitar o máximo do <b>Kyte</b> e ainda economiza para <b>reinvestir no negócio</b>.'
   },
   'partners-2B': {
     en: 'Learn more',
@@ -56,33 +56,33 @@ const translations = {
   },
   'who.h3.a': {
     en: 'Step 1: Share your unique link',
-    es: 'Paso 1: Comparte tu enlace único',
+    es: 'Paso 1: Comparte tu enlace exclusivo',
     pt: 'Passo 1: Compartilhe seu link exclusivo'
   },
   'who.h3.a.description': {
-    en: 'Go to the <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a></b>, sign up, and get your link. Share it via <b>WhatsApp</b>, social media, or email.',
-    es: 'Accede al <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a></b>, regístrate y obtén tu enlace.<br>Compártelo por <b>WhatsApp</b>, redes sociales o correo.',
-    pt: 'Acesse o <b><a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a></b>, faça seu cadastro e tenha acesso ao seu link.<br>Compartilhe por <b>WhatsApp</b>, redes sociais ou e-mail.'
+    en: 'Sign up in the <b><a href="https://kyte.firstpromoter.com/home" rel="external">Partner Portal</a></b>, generate your unique link, and share it with anyone.',
+    es: 'Regístrate en el <b><a href="https://kyte.firstpromoter.com/home" rel="external">Portal de Socios</a></b>, genera tu <b>enlace exclusivo</b> y compártelo con quien quieras.',
+    pt: 'Cadastre-se no <b><a href="https://kyte.firstpromoter.com/home" rel="external">Portal de Parceiros</a></b>, gere seu link exclusivo e <br>compartilhe com quantas pessoas quiser.'
   },
   'who.h3.b': {
-    en: 'Step 2: New subscribers get a discount',
-    es: 'Paso 2: Quien se suscribe recibe descuento',
-    pt: 'Passo 2: Quem assina tem desconto'
+    en: 'Step 2: Discount unlocked',
+    es: 'Paso 2: Descuento activado',
+    pt: 'Passo 2: Desconto liberado'
   },
   'who.h3.b.description': {
-    en: 'When someone clicks your link, they go to sign up and your code stays <b>valid for 90 days</b>. New subscriptions through your personal link give referrals <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> for up to <b>12 months</b>.',
-    es: 'Al hacer clic en tu enlace, la persona irá a registrarse y tu código quedará <b>válido por 90 días</b>. Las nuevas suscripciones con tu enlace personalizado garantizan a tus referidos <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b> por hasta <b>12 meses</b>.',
-    pt: 'Clicando no link, seu contato vai ser direcionado para se cadastrar e seu código ficará <b>válido por 90 dias</b>. Novas assinaturas via seu link personalizado garantem aos indicados <b>15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b> por até <b>12 meses</b>.'
+    en: 'Anyone who joins a <b>Kyte</b> account with your link gets <b>15% off</b> on <b>GROW</b> and <b>PRIME</b> for up to <b>12 months</b>.',
+    es: 'Quien entra a la cuenta de <b>Kyte</b> con tu enlace recibe <b>15% de descuento</b> en los planes <b>GROW</b> y <b>PRIME</b> por hasta <b>12 meses</b>.',
+    pt: 'Quem entra na conta <b>Kyte</b> pelo seu link ganha <b>15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b> por até <b>12 meses</b>.'
   },
   'who.h3.c': {
-    en: 'Step 3: You receive the payment in your PayPal account',
-    es: 'Paso 3: Recibirás el pago en tu cuenta de PayPal',
+    en: 'Step 3: You get paid to your PayPal',
+    es: 'Paso 3: Recibes en tu cuenta PayPal',
     pt: 'Passo 3: Você recebe na sua conta PayPal'
   },
   'who.h3.c.description': {
-    en: 'After the subscription made through your link is confirmed, you earn <b>15% commission</b> for up to <b>12 months</b> and you can track it on your dashboard in the <b>Partner Portal</b>.',
-    es: 'Después de la confirmación de la suscripción hecha con tu enlace, ganas <b>15% de comisión</b> por hasta <b>12 meses</b> y podrás seguirlo en tu panel del <b>Portal de Socios</b>.',
-    pt: 'Após a confirmação da assinatura realizada pelo seu link, você ganha <b>15% de comissão</b> por até <b>12 meses</b> e poderá acompanhar no seu painel, no <b>Portal de Parceiros</b>.'
+    en: 'The commission is recorded if the person <b>subscribes within 90 days</b> after <b>accessing Kyte with your link</b>. Valid only for accounts on the <b>FREE plan for more than 3 months</b> or with <b>no previous subscriptions</b>.',
+    es: 'La comisión se registra si la persona se suscribe <b>dentro de 90 días</b> de haber accedido a <b>Kyte</b> con tu enlace. Válida solo para cuentas en <b>plan FREE por más de 3 meses</b> o <b>sin suscripciones previas</b>.',
+    pt: 'A comissão é registrada se a pessoa indicada <b>assinar em até 90 dias após acessar o Kyte</b> pelo seu link. Válida apenas para <b>contas FREE há mais de 3 meses</b> ou <b>sem assinaturas anteriores</b>.'
   },
   'partners-3B': {
     en: 'Learn more',
@@ -90,9 +90,9 @@ const translations = {
     pt: 'Saiba mais'
   },
   'partners-3A': {
-    en: 'Get started',
-    es: 'Comenzar',
-    pt: 'Começar'
+    en: 'Start now',
+    es: 'Comenzar ahora',
+    pt: 'Comece agora'
   },
   'faq.heading': {
   en: 'Frequently asked questions',
@@ -105,9 +105,9 @@ const translations = {
   pt: 'Qualquer pessoa pode participar?'
 },
 'faq.a.1': {
-  en: 'Yes, anyone <b>18+ years old</b>, whether they use <b>Kyte</b> or not. Just share your <b>unique link</b> with business owners and they subscribe to a <a href="https://www.kyteapp.com/pricing" rel="external">Kyte plan</a>.',
-  es: 'Sí, cualquier persona <b>mayor de 18 años</b> use o no <b>Kyte</b>. Solo comparte tu <b>enlace único</b> con quien tenga un negocio y la persona <b>se suscriba a uno de los <a href="https://www.appkyte.com/precios" rel="external"> planes Kyte</a>.',
-  pt: 'Sim, qualquer pessoa <b>maior de 18 anos</b> que usa ou não o <b>Kyte</b>. É só divulgar o seu <b>link exclusivo</b> para quem tem um negócio e a pessoa <a href="https://www.kyte.com.br/planos" rel="external">assinar um dos planos Kyte</a>.'
+  en: 'Yes, anyone <b>18+ years old</b>, whether they use <b>Kyte</b> or not. Just share your <b>unique link</b> with business owners and they subscribe to a <a href="https://www.kyteapp.com/pricing" rel="external">Kyte plan</a>. 🤝',
+  es: 'Sí, cualquier persona <b>mayor de 18 años</b> use o no <b>Kyte</b>. Solo comparte tu <b>enlace exclusivo</b> con quien tenga un negocio y <b>se suscriba a uno de los <a href="https://www.appkyte.com/precios" rel="external"> planes de Kyte</a>. 🤝',
+  pt: 'Sim, qualquer pessoa <b>maior de 18 anos</b> que usa ou não o <b>Kyte</b>. É só divulgar o seu <b>link exclusivo</b> para quem tem um negócio e a pessoa <a href="https://www.kyte.com.br/planos" rel="external">assinar um dos planos Kyte</a>. 🤝'
 },
 'faq.q.2': {
   en: 'How does it work?',
@@ -115,19 +115,19 @@ const translations = {
   pt: 'Como funciona?'
 },
 'faq.a.2': {
-  en: '1. Sign up in the <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a>, generate your unique link, and share it with as many people as you want. <br>2. Anyone with your personal link can register on Kyte within 90 days and, when creating the account, gets a 7-day trial of the GROW plan.<br>3. If your referral subscribes to a Kyte plan and it is the first subscription or they have been on the FREE plan for more than 3 months, the commission is recorded on <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">your dashboard</a>.',
-  es: '1. Regístrate en el <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a>, genera tu enlace único y compártelo con tantas personas como quieras. <br>2. Quien tenga tu enlace personalizado puede registrarse en Kyte con ese enlace en hasta 90 días y, al crear la cuenta, recibe 7 días de prueba del plan GROW.<br>3. Si tu referido se suscribe a un plan de Kyte y es su primera suscripción o estaba en el plan FREE por más de 3 meses, la comisión se registra en <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">tu panel</a>.',
-  pt: '1. Cadastre-se no <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a>, gere seu link exclusivo e compartilhe com quantas pessoas quiser. <br>2. Quem tiver o seu link personalizado pode se cadastrar no Kyte com ele em até 90 dias e, ao criar a conta, ganha 7 dias de teste do plano GROW.<br>3. Se quem você indicou assinar um plano Kyte e for a primeira assinatura ou estiver no plano FREE há mais de 3 meses, a comissão é registrada no <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">seu painel</a>.'
+  en: ':one: Sign up in the <a href="https://kyte.firstpromoter.com/home" rel="external">Partner Portal</a>, generate your unique link, and share it with as many people as you want. <br> :two: Anyone who enters a <b>Kyte</b> account through your link <b>within 90 days</b> gets <b>15% off</b> the <b>GROW</b> and <b>PRIME</b> plans for up to <b>12 months</b>. <br> :three: The commission is recorded on <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">your dashboard</a> for accounts on the <b>FREE plan for more than 3 months</b> or with <b>no previous subscriptions</b>.',
+  es: ':one: Regístrate en el <a href="https://kyte.firstpromoter.com/home" rel="external">Portal de Socios</a>, genera tu enlace exclusivo y compártelo con quien quieras. <br> :two: Quien entra a la cuenta de <b>Kyte</b> con tu enlace, en <b>hasta 90 días</b>, activa <b>15% de descuento</b> en <b>GROW</b> y <b>PRIME</b> por hasta <b>12 meses</b>. <br> :three: La comisión se registra en <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">tu panel</a> para cuentas con <b>plan FREE por más de 3 meses</b> o <b>sin suscripciones anteriores</b>. ',
+  pt: ':one: Cadastre-se no <a href="https://kyte.firstpromoter.com/home" rel="external">Portal de Parceiros</a>, gere seu link exclusivo e compartilhe com quantas pessoas quiser. <br> :two: Quem entra na conta <b>Kyte</b> através do seu link em até <b>90 dias</b> ativa <b>15% de desconto</b> nos planos <b>GROW</b> e <b>PRIME</b> por até <b>12 meses</b>. <br> :three: A comissão é registrada no <a href="https://kyte.firstpromoter.com/my-commissions" rel="external">seu painel</a> para contas com <b>plano FREE por mais de 3 meses</b> ou <b>sem assinaturas anteriores</b>.'
 },
 'faq.q.3': {
-  en: 'Which plans give my referral a 15% discount?',
-  es: '¿En cuáles planes mi referido obtiene 15% de descuento?',
+  en: 'Which plans include the 15% discount?',
+  es: '¿En qué planes mi referido tiene 15% de descuento?',
   pt: 'Quem eu indico tem desconto de 15% em quais planos?'
 },
 'faq.a.3': {
-  en: 'New subscriptions to <b>GROW</b> and <b>PRIME</b> plans for up to <b>12 months</b> receive a <b>15% discount</b>.',
-  es: 'Quienes hagan una nueva suscripción a los planes <b>GROW</b> y <b>PRIME</b> por hasta <b>12 meses</b> obtendrán el <b>15% de descuento</b>.',
-  pt: 'Aqueles que fizerem uma nova assinatura nos planos <b>GROW</b> e <b>PRIME</b> por até <b>12 meses</b> terão o <b>desconto de 15%</b>.'
+  en: '<b>GROW</b> and <b>PRIME</b>, monthly or yearly, for up to <b>12 months</b>. :label:',
+  es: 'En <b>GROW</b> y <b>PRIME</b>, mensual o anual, por hasta <b>12 meses</b>. :label:',
+  pt: 'Nos planos <b>GROW</b> e <b>PRIME</b>, mensal ou anual, por até <b>12 meses</b>. :label:'
 },
 'faq.q.4': {
   en: 'How long do I receive the 15% commission?',
@@ -135,9 +135,9 @@ const translations = {
   pt: 'Por quanto tempo recebo comissão de 15%?'
 },
 'faq.a.4': {
-  en: 'For up to <b>12 months</b> on each <b>confirmed subscription</b> made through your <b>unique link</b>.',
-  es: 'Por hasta <b>12 meses</b> en cada <b>suscripción confirmada</b> realizada con tu <b>enlace único</b>.',
-  pt: 'Por até <b>12 meses</b> em cada <b>assinatura confirmada</b> e realizada pelo seu <b>link exclusivo</b>.'
+  en: 'For up to <b>12 months</b> on each subscription made by accounts that entered through your <b>unique link</b>. Valid only for <b>FREE accounts for more than 3 months</b> or with <b>no previous subscriptions</b>. :date:',
+  es: 'Por hasta <b>12 meses</b> en cada suscripción hecha por <b>cuentas que entraron con tu enlace exclusivo</b>. Válida solo para cuentas <b>FREE por más de 3 meses</b> o <b>sin suscripciones previas</b>. :date:',
+  pt: 'Por até <b>12 meses</b> em cada assinatura feita <b>nas contas que acessaram pelo seu link exclusivo</b>. Válida apenas para <b>contas FREE há mais de 3 meses</b> ou <b>sem assinaturas anteriores</b>. :date:'
 },
 'faq.q.5': {
   en: 'How do I receive the commission?',
@@ -145,9 +145,9 @@ const translations = {
   pt: 'Como recebo comissão?'
 },
 'faq.a.5': {
-  en: 'Via <b>PayPal</b>, according to the program’s <a href="https://www.kyteapp.com/terms-of-use#cap_12" rel="external">rules and timelines</a>. Track your referrals in the <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a>.',
-  es: 'A través de <b>PayPal</b>, según las <a href="https://www.appkyte.com/terminos-de-uso#cap_25" rel="external">reglas y plazos del programa</a>. Revisa tus referidos en el <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a>.',
-  pt: 'Através do <b>PayPal</b>, conforme <a href="https://www.kyte.com.br/termos-de-uso#cap_13" rel="external">regras e prazos do programa</a>. Acompanhe suas indicações no <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a>.'
+  en: 'Through <b>PayPal</b>, according to the program’s <a href="https://www.kyteapp.com/terms-of-use#cap_12" rel="external">rules and timelines</a>. Track your referrals in the <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Partner Portal</a>. :chart_with_upwards_trend:',
+  es: 'A través de <b>PayPal</b>, según las <a href="https://www.appkyte.com/terminos-de-uso#cap_25" rel="external">reglas y plazos del programa</a>. Revisa tus referidos en el <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Socios</a>. :chart_with_upwards_trend:',
+  pt: 'Através do <b>PayPal</b>, conforme <a href="https://www.kyte.com.br/termos-de-uso#cap_13" rel="external">regras e prazos do programa</a>. Acompanhe suas indicações no <a href="https://kyte.firstpromoter.com/my-payouts" rel="external">Portal de Parceiros</a>. :chart_with_upwards_trend:'
 },
 'faq.q.6': {
   en: 'When do I start receiving?',
@@ -155,9 +155,9 @@ const translations = {
   pt: 'Quando começo a receber?'
 },
 'faq.a.6': {
-  en: 'After the <b>subscription is confirmed</b> through your <b>unique link</b>, and if your balance is at <b>least $ 50</b>.',
-  es: 'Después de la <b>confirmación de la suscripción</b> hecha con tu <b>enlace único</b>, y si tu saldo es de al <b>menos $ 50</b>.',
-  pt: 'Após a <b>confirmação da assinatura</b> feita através do seu <b>link exclusivo</b>,e se o seu saldo for no <b>mínimo R$ 50</b>.'
+  en: 'After <b>subscription confirmation</b> for accounts that joined via your <b>unique link</b>, and if your balance is <b>at least $ 50</b>. :moneybag:',
+  es: 'Después de la confirmación de la suscripción hecha por <b>cuentas que entraron con tu enlace exclusivo</b>, y si tu saldo es <b>al menos $50</b>. :moneybag:',
+  pt: 'Após a <b>confirmação da assinatura</b> feita nas contas que acessaram pelo seu <b>link exclusivo</b>, e se o seu saldo for <b> no mínimo R$ 50</b>. :moneybag:'
 },
 'faq.q.7': {
   en: 'Is there a referral limit?',
@@ -166,7 +166,7 @@ const translations = {
 },
 'faq.a.7': {
   en: '<b>No</b>, the more you refer, the more you can earn! 🚀',
-  es: '<b>No</b>, ¡entre más refieras, más puedes ganar! 🚀',
+  es: '<b>No</b>, ¡cuanto más refieras, más puedes ganar! 🚀',
   pt: '<b>Não</b>, quanto mais você indicar, mais pode ganhar! 🚀'
 },
 'faq.q.8': {
@@ -175,23 +175,19 @@ const translations = {
   pt: 'E se eu tiver mais dúvidas?'
 },
 'faq.a.8': {
-  en: 'Contact our team anytime at <b>help@kyte.com.br</b>.',
-  es: 'Escríbenos cuando necesites a <b>help@kyte.com.br</b>.',
-  pt: 'Fale com o nosso time pelo <b>help@kyte.com.br</b> quando precisar.'
+  en: 'Contact our team at <a href="help@kyteapp.com" rel="external"><b>help@kyteapp.com</b></a> whenever you need. :busts_in_silhouette:',
+  es: 'Escríbenos a <a href="help@appkyte.com" rel="external"><b>help@appkyte.com.com.br</b></a> cuando lo necesites. :busts_in_silhouette:',
+  pt: 'Fale com o nosso time pelo <a href="help@kyte.com.br" rel="external"><b>help@kyte.com.br</b></a> quando precisar. :busts_in_silhouette:'
+
 },
 'faq.cta.title': {
-  en: 'Refer Kyte and help other businesses grow 🌱',
-  es: 'Recomienda a Kyte y ayuda a otros negocios a crecer 🌱',
-  pt: 'Indique o Kyte e ajude outros negócios a crescer 🌱'
-},
-'faq.cta.description': {
-  en: 'Help other businesses and earn money from subscriptions made through your unique link.',
-  es: 'Ayuda a otros negocios y gana dinero con las suscripciones realizadas a través de tu enlace único.',
-  pt: 'Ajude outros negócios e ganhe dinheiro com assinaturas feitas através do seu link exclusivo.'
+  en: '🌱 Refer Kyte and help other businesses grow!',
+  es: '🌱 ¡Recomienda Kyte y ayuda a otros negocios a crecer!',
+  pt: '🌱 Indique o Kyte e ajude outros negócios a crescer!'
 },
 'faq.cta.link': {
-  en: 'Get my referral link',
-  es: 'Quiero mi enlace de referencia',
+  en: 'I want my referral link',
+  es: 'Quiero mi enlace de referido',
   pt: 'Quero meu link de indicação'
 },
 };
