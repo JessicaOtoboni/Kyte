@@ -60,9 +60,9 @@ const translations = {
     pt: 'Passo 1: Compartilhe seu link exclusivo'
   },
   'who.h3.a.description': {
-    en: 'Sign up in the <b><a href="https://kyte.firstpromoter.com/signup/35214" rel="external">Partner Portal</a></b>, generate your unique link, and share it with anyone.',
-    es: 'Regístrate en el <b><a href="https://kyte.firstpromoter.com/signup/35215" rel="external">Portal de Socios</a></b>, genera tu <b>enlace exclusivo</b> y compártelo con quien quieras.',
-    pt: 'Cadastre-se no <b><a href="https://kyte.firstpromoter.com/signup" rel="external">Portal de Parceiros</a></b>, gere seu link exclusivo e <br>compartilhe com quantas pessoas quiser.'
+    en: 'Sign up in the <b><a href="https://kyte.firstpromoter.com/?aid=&email=&uid=" rel="external">Partner Portal</a></b>, generate your unique link, and share it with anyone.',
+    es: 'Regístrate en el <b><a href="https://kyte.firstpromoter.com/?aid=&email=&uid=" rel="external">Portal de Socios</a></b>, genera tu <b>enlace exclusivo</b> y compártelo con quien quieras.',
+    pt: 'Cadastre-se no <b><a href="https://kyte.firstpromoter.com/?aid=&email=&uid=" rel="external">Portal de Parceiros</a></b>, gere seu link exclusivo e <br>compartilhe com quantas pessoas quiser.'
   },
   'who.h3.b': {
     en: 'Step 2: Discount unlocked',
